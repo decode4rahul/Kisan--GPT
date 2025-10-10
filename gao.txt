@@ -1,0 +1,24 @@
+What is the problem ?
+
+- Average Farmers due to lack of their knowledge in the modern science and Agriculture their crops fails many times
+causing loss to both of thier finance and shortage of crops in the market , raising the price for common people.
+
+- Lack of knowledge in advanced medicines , methods , and global warming weather.
+
+
+
+Implements left :
+
+1. Thinking AI
+2. Market price scrap through web
+3. Database integration
+4. Call api integration
+
+
+What does the Currenct code do- 
+
+1. Uses AI to get the farmer name , city , state 
+2. Check the Name in the Database
+3. Get old infos about his problems for relating to the new problems
+4. Use the location , through weather API to get The current weather status.
+5. Use all the infos to help the farmer in solving his problems.
