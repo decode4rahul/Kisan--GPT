@@ -211,7 +211,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 *Empowering agriculture through accessible AI technology*
 
-[![Star this repo](https://img.shields.io/github/stars/yourusername/kisangpt?style=social)](https://github.com/yourusername/kisangpt)
-[![Follow us](https://img.shields.io/twitter/follow/kisangpt?style=social)](https://twitter.com/kisangpt)
+[![Star this repo](https://img.shields.io/github/stars/yourusername/kisangpt?style=social)](https://github.com/decode4rahul/Kisan--GPT)
+[![Follow us](https://img.shields.io/twitter/follow/kisangpt?style=social)](https://github.com/decode4rahul/Kisan--GPT)
 
 </div>
